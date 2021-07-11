@@ -1,6 +1,6 @@
 
 
-# What is "Big O notation"?
+# What is Big O Notation?
 
 
 # --> the function O plots the runtime (in microseconds) as a function of the input size (n)
